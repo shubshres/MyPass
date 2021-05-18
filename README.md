@@ -1,4 +1,4 @@
-# Password-Manager
+# MyPass
 Created a program that saves login information locally for safe and secure access. 
 
 User's login information will be stored in the 'login_info.txt' file. 
